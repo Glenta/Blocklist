@@ -1,1 +1,7 @@
+# Title: Glenta Blocklist
+# My custom blocklist made from debugging DNS queries
+# Last Updated: January 22, 2020 EST
+
+# Ad Domains for SoundCloud
 promoted.soundcloud.com
+z.moatads.com
