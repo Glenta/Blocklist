@@ -1,2 +1,2 @@
 # Domain-Blocklist
-Blocklist full of domains
+Custom blocklist made from debugging DNS queries
